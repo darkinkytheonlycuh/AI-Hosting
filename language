@@ -1,194 +1,185 @@
-// Language Translations: English, Spanish, Portuguese, French, German, Italian, Dutch, Polish, Turkish, Russian, Ukrainian, Arabic, Hindi, Japanese, Korean, Chinese, Vietnamese, Indonesian, Thai, Swedish, Bengali, Finnish, Danish, Norwegian, Czech, Greek, Hebrew, Romanian, Hungarian
+// SUPPORTED LANGUAGES
+//Catalan, Basque, Galician, Croatian, Serbian, Slovak, Slovenian, Bulgarian, Latvian, Lithuanian, Estonian, Icelandic, Irish, Welsh, Malay,
+//Filipino, Swahili, Persian, Urdu, Tamil, Telugu, Marathi, Gujarati, Punjabi, Kannada, Malayalam, Sinhala, Nepali, Georgian, Armenian.
 
-হ্যালো|hei|hej|hei|ahoj|γεια|שלום|salut|szia
-হাই|hei|hej|hei|ahoj|γεια|היי|salut|szia
-সুপ্রভাত|hyvää huomenta|godmorgen|god morgen|dobré ráno|καλημέρα|בוקר טוב|bună dimineața|jó reggelt
-শুভ অপরাহ্ন|hyvää iltapäivää|god eftermiddag|god ettermiddag|dobré odpoledne|καλό απόγευμα|צהריים טובים|bună ziua|jó napot
-শুভ সন্ধ্যা|hyvää iltaa|god aften|god kveld|dobrý večer|καλησπέρα|ערב טוב|bună seara|jó estét
-শুভ রাত্রি|hyvää yötä|godnat|god natt|dobrou noc|καληνύχτα|לילה טוב|noapte bună|jó éjszakát
-বিদায়|näkemiin|farvel|ha det|na shledanou|αντίο|להתראות|la revedere|viszlát
-বাই|heippa|hej hej|ha det|čau|γεια|ביי|pa|pá
-পরে দেখা হবে|nähdään myöhemmin|vi ses senere|vi sees senere|uvidíme se později|τα λέμε αργότερα|נתראה אחר כך|pe mai târziu|később találkozunk
-কাল দেখা হবে|nähdään huomenna|vi ses i morgen|vi sees i morgen|uvidíme se zítra|τα λέμε αύριο|נתראה מחר|pe mâine|holnap találkozunk
-তুমি কেমন আছ|mitä kuuluu|hvordan har du det|hvordan har du det|jak se máš|πώς είσαι|מה שלומך|ce mai faci|hogy vagy
-আমি ভালো আছি|minulla menee hyvin|jeg har det godt|jeg har det bra|mám se dobře|είμαι καλά|אני בסדר|sunt bine|jól vagyok
-অনেক ধন্যবাদ|kiitos paljon|mange tak|tusen takk|mockrát děkuji|ευχαριστώ πολύ|תודה רבה|mulțumesc mult|nagyon köszönöm
-ধন্যবাদ|kiitos|tak|takk|děkuji|ευχαριστώ|תודה|mulțumesc|köszönöm
-থ্যাঙ্কস|kiitti|tak|takk|díky|ευχαριστώ|תודה|mersi|köszi
-স্বাগতম|ole hyvä|selv tak|bare hyggelig|není zač|παρακαλώ|בבקשה|cu plăcere|szívesen
-দয়া করে|ole hyvä|vær så venlig|vær så snill|prosím|παρακαλώ|בבקשה|te rog|kérlek
-দুঃখিত|anteeksi|undskyld|unnskyld|promiň|συγγνώμη|סליחה|scuze|sajnálom
-দুঃখিত, শুনুন|anteeksi|undskyld mig|unnskyld meg|promiňte|με συγχωρείτε|סליחה|scuzați-mă|elnézést
-কোনো সমস্যা নেই|ei se mitään|ingen problem|ikke noe problem|žádný problém|κανένα πρόβλημα|אין בעיה|nicio problemă|semmi gond
-অবশ্যই|tietysti|selvfølgelig|selvfølgelig|samozřejmě|φυσικά|בטח|desigur|persze
-আমি তোমাকে ভালোবাসি|rakastan sinua|jeg elsker dig|jeg elsker deg|miluji tě|σ'αγαπώ|אני אוהב אותך|te iubesc|szeretlek
-আমি তোমাকে মিস করি|kaipaan sinua|jeg savner dig|jeg savner deg|chybíš mi|μου λείπεις|אני מתגעגע אליך|mi-e dor de tine|hiányzol
-স্বাগতম|tervetuloa|velkommen|velkommen|vítejte|καλώς ήρθατε|ברוך הבא|bun venit|üdvözöljük
-অভিনন্দন|onnittelut|tillykke|gratulerer|gratuluji|συγχαρητήρια|מזל טוב|felicitări|gratulálok
-শুভ জন্মদিন|hyvää syntymäpäivää|tillykke med fødselsdagen|gratulerer med dagen|všechno nejlepší k narozeninám|χρόνια πολλά|יום הולדת שמח|la mulți ani|boldog születésnapot
-শুভকামনা|onnea matkaan|held og lykke|lykke til|hodně štěstí|καλή τύχη|בהצלחה|mult noroc|sok szerencsét
-তোমার দিনটি ভালো কাটুক|hyvää päivänjatkoa|hav en god dag|ha en fin dag|hezký den|καλή σου μέρα|שיהיה לך יום נעים|o zi bună|szép napot
-তোমার নাম কি|mikä sinun nimesi on|hvad hedder du|hva heter du|jak se jmenuješ|πώς σε λένε|איך קוראים לך|cum te numești|hogy hívnak
-আমার নাম|nimeni on|jeg hedder|jeg heter|jmenuji se|με λένε|קוראים לי|numele meu este|a nevem
-তোমার সাথে পরিচিত হয়ে ভালো লাগলো|hauska tutustua|rart at møde dig|hyggelig å møte deg|těší mě|χάρηκα για τη γνωριμία|נעים מאוד|încântat de cunoștință|örvendek
-তুমি কোথা থেকে এসেছ|mistä olet kotoisin|hvor er du fra|hvor er du fra|odkud jsi|από πού είσαι|מאיפה אתה|de unde ești|honnan jössz
-আমি বুঝতে পারছি না|en ymmärrä|jeg forstår ikke|jeg forstår ikke|nerozumím|δεν καταλαβαίνω|אני לא מבין|nu înțeleg|nem értem
-আমি বুঝেছি|ymmärrän|jeg forstår|jeg forstår|rozumím|καταλαβαίνω|אני מבין|înțeleg|értem
-আমি জানি না|en tiedä|jeg ved det ikke|jeg vet ikke|nevím|δεν ξέρω|אני לא יודע|nu știu|nem tudom
-তুমি কি ইংরেজি বলতে পারো|puhutko englantia|taler du engelsk|snakker du engelsk|mluvíš anglicky|μιλάς αγγλικά|אתה מדבר אנגלית|vorbești engleză|beszélsz angolul
-তুমি কি আমাকে সাহায্য করতে পারো|voitko auttaa minua|kan du hjælpe mig|kan du hjelpe meg|můžeš mi pomoct|μπορείς να με βοηθήσεις|תוכל לעזור לי|mă poți ajuta|segítenél nekem
-তুমি কি করছ|mitä teet|hvad laver du|hva gjør du|co děláš|τι κάνεις|מה אתה עושה|ce faci|mit csinálsz
-চলো খেলি|pelataan|lad os spille|la oss spille|pojďme si hrát|πάμε να παίξουμε|בוא נשחק|hai să ne jucăm|játsszunk
-এখন কয়টা বাজে|mitä kello on|hvad er klokken|hva er klokka|kolik je hodin|τι ώρα είναι|מה השעה|cât e ceasul|hány óra van
-কত|paljonko|hvor meget|hvor mye|kolik|πόσο|כמה|cât|mennyi
-তুমি কি ঠিক আছ|oletko kunnossa|er du okay|går det bra med deg|jsi v pořádku|είσαι εντάξει|אתה בסדר|ești bine|jól vagy
-আমিও|minäkin|mig også|meg også|já taky|κι εγώ|גם אני|și eu|én is
-খারাপ না|ei paha|ikke dårligt|ikke verst|není to špatné|δεν είναι άσχημο|לא רע|nu-i rău|nem rossz
-খুব ভালো|erittäin hyvä|meget godt|veldig bra|moc dobré|πολύ καλό|טוב מאוד|foarte bine|nagyon jó
-এখনই|juuri nyt|lige nu|akkurat nå|právě teď|αυτή τη στιγμή|ממש עכשיו|chiar acum|most rögtön
-শুভ নববর্ষ|hyvää uutta vuotta|godt nytår|godt nyttår|šťastný nový rok|καλή χρονιά|שנה טובה|la mulți ani|boldog új évet
-শুভ বড়দিন|hyvää joulua|glædelig jul|god jul|veselé vánoce|καλά χριστούγεννα|חג מולד שמח|crăciun fericit|boldog karácsonyt
-হ্যাঁ|kyllä|ja|ja|ano|ναι|כן|da|igen
-না|ei|nej|nei|ne|όχι|לא|nu|nem
-ঠিক আছে|okei|okay|ok|dobře|εντάξει|בסדר|bine|oké
-হয়তো|ehkä|måske|kanskje|možná|ίσως|אולי|poate|talán
-আমি|minä|jeg|jeg|já|εγώ|אני|eu|én
-তুমি|sinä|du|du|ty|εσύ|אתה|tu|te
-সে|hän|han|han|on|αυτός|הוא|el|ő
-সে|hän|hun|hun|ona|αυτή|היא|ea|ő
-আমরা|me|vi|vi|my|εμείς|אנחנו|noi|mi
-তারা|he|de|de|oni|αυτοί|הם|ei|ők
-এই|tämä|dette|dette|tohle|αυτό|זה|acesta|ez
-ওই|tuo|det|det|tamto|εκείνο|זה|acela|az
-কী|mitä|hvad|hva|co|τι|מה|ce|mi
-কে|kuka|hvem|hvem|kdo|ποιος|מי|cine|ki
-কোথায়|missä|hvor|hvor|kde|πού|איפה|unde|hol
-কখন|milloin|hvornår|når|kdy|πότε|מתי|când|mikor
-কেন|miksi|hvorfor|hvorfor|proč|γιατί|למה|de ce|miért
-কিভাবে|miten|hvordan|hvordan|jak|πώς|איך|cum|hogyan
-ভালো|hyvä|god|god|dobrý|καλός|טוב|bun|jó
-খারাপ|huono|dårlig|dårlig|špatný|κακός|רע|rău|rossz
-দারুণ|mahtava|fantastisk|fantastisk|skvělý|υπέροχο|נהדר|minunat|nagyszerű
-দারুণ|siistiä|sejt|kult|super|ωραίο|מגניב|mișto|menő
-সুন্দর|kaunis|smuk|vakker|krásný|όμορφος|יפה|frumos|gyönyörű
-মজার|hauska|sjov|morsom|vtipný|αστείο|מצחיק|amuzant|vicces
-খুশি|iloinen|glad|glad|šťastný|χαρούμενος|שמח|fericit|boldog
-দুঃখিত|surullinen|trist|trist|smutný|λυπημένος|עצוב|trist|szomorú
-ক্লান্ত|väsynyt|træt|trøtt|unavený|κουρασμένος|עייף|obosit|fáradt
-ক্ষুধার্ত|nälkäinen|sulten|sulten|hladový|πεινασμένος|רעב|flămând|éhes
-বন্ধু|ystävä|ven|venn|přítel|φίλος|חבר|prieten|barát
-বন্ধুরা|ystävät|venner|venner|přátelé|φίλοι|חברים|prieteni|barátok
-পরিবার|perhe|familie|familie|rodina|οικογένεια|משפחה|familie|család
-ভালোবাসা|rakkaus|kærlighed|kjærlighet|láska|αγάπη|אהבה|dragoste|szerelem
-খেলা|peli|spil|spill|hra|παιχνίδι|משחק|joc|játék
-খেলাগুলো|pelit|spil|spill|hry|παιχνίδια|משחקים|jocuri|játékok
-সঙ্গীত|musiikki|musik|musikk|hudba|μουσική|מוזיקה|muzică|zene
-চলচ্চিত্র|elokuva|film|film|film|ταινία|סרט|film|film
-খাবার|ruoka|mad|mat|jídlo|φαγητό|אוכל|mâncare|étel
-জল|vesi|vand|vann|voda|νερό|מים|apă|víz
-স্কুল|koulu|skole|skole|škola|σχολείο|בית ספר|școală|iskola
-কাজ|työ|arbejde|jobb|práce|δουλειά|עבודה|muncă|munka
-বাড়ি|koti|hjem|hjem|domov|σπίτι|בית|acasă|otthon
-সময়|aika|tid|tid|čas|χρόνος|זמן|timp|idő
-দিন|päivä|dag|dag|den|μέρα|יום|zi|nap
-রাত|yö|nat|natt|noc|νύχτα|לילה|noapte|éjszaka
-আজ|tänään|i dag|i dag|dnes|σήμερα|היום|astăzi|ma
-আগামীকাল|huomenna|i morgen|i morgen|zítra|αύριο|מחר|mâine|holnap
-গতকাল|eilen|i går|i går|včera|χθες|אתמול|ieri|tegnap
-এখন|nyt|nu|nå|teď|τώρα|עכשיו|acum|most
-পরে|myöhemmin|senere|senere|později|αργότερα|אחר כך|mai târziu|később
-শীঘ্রই|pian|snart|snart|brzy|σύντομα|בקרוב|curând|hamarosan
-সবসময়|aina|altid|alltid|vždy|πάντα|תמיד|întotdeauna|mindig
-কখনও না|ei koskaan|aldrig|aldri|nikdy|ποτέ|אף פעם|niciodată|soha
-এখানে|täällä|her|her|tady|εδώ|כאן|aici|itt
-সেখানে|tuolla|der|der|tam|εκεί|שם|acolo|ott
-সাথে|kanssa|med|med|s|με|עם|cu|-val
-ছাড়া|ilman|uden|uten|bez|χωρίς|בלי|fără|nélkül
-এবং|ja|og|og|a|και|ו|și|és
-অথবা|tai|eller|eller|nebo|ή|או|sau|vagy
-কিন্তু|mutta|men|men|ale|αλλά|אבל|dar|de
-কারণ|koska|fordi|fordi|protože|επειδή|כי|pentru că|mert
-খুব|hyvin|meget|veldig|velmi|πολύ|מאוד|foarte|nagyon
-আরো|lisää|mere|mer|víc|περισσότερο|יותר|mai mult|több
-সব|kaikki|alle|alle|všichni|όλα|הכל|tot|minden
-সবাই|kaikki|alle|alle|všichni|όλοι|כולם|toată lumea|mindenki
-কিছু না|ei mitään|ingenting|ingenting|nic|τίποτα|שום דבר|nimic|semmi
-কিছু|jotain|noget|noe|něco|κάτι|משהו|ceva|valami
-চাই|haluta|ville|ville|chtít|θέλω|רוצה|a vrea|akar
-দরকার|tarvita|behøve|trenge|potřebovat|χρειάζομαι|צריך|a avea nevoie|szükség
-সাহায্য|apu|hjælp|hjelp|pomoc|βοήθεια|עזרה|ajutor|segítség
-জানা|tietää|vide|vite|vědět|ξέρω|לדעת|a ști|tud
-ভাবা|ajatella|tænke|tenke|myslet|νομίζω|לחשוב|a gândi|gondol
-পছন্দ করা|pitää|kunne lide|like|mít rád|μου αρέσει|לאהוב|a plăcea|szeret
-খেলা|leikkiä|lege|leke|hrát|παίζω|לשחק|a juca|játszik
-খাওয়া|syödä|spise|spise|jíst|τρώω|לאכול|a mânca|eszik
-ঘুমানো|nukkua|sove|sove|spát|κοιμάμαι|לישון|a dormi|alszik
-যাওয়া|mennä|gå|gå|jít|πηγαίνω|ללכת|a merge|megy
-আসা|tulla|komme|komme|přijít|έρχομαι|לבוא|a veni|jön
-দেখা|nähdä|se|se|vidět|βλέπω|לראות|a vedea|lát
-কথা বলা|puhua|snakke|snakke|mluvit|μιλάω|לדבר|a vorbi|beszél
-বার্তা|viesti|besked|melding|zpráva|μήνυμα|הודעה|mesaj|üzenet
-সার্ভার|palvelin|server|server|server|διακομιστής|שרת|server|szerver
-চ্যানেল|kanava|kanal|kanal|kanál|κανάλι|ערוץ|canal|csatorna
-কল|puhelu|opkald|anrop|hovor|κλήση|שיחה|apel|hívás
-কণ্ঠস্বর|ääni|stemme|stemme|hlas|φωνή|קול|voce|hang
-ছবি|kuva|billede|bilde|obrázek|εικόνα|תמונה|poză|kép
-ভিডিও|video|video|video|video|βίντεο|וידאו|video|videó
-ফোন|puhelin|telefon|telefon|telefon|τηλέφωνο|טלפון|telefon|telefon
-কম্পিউটার|tietokone|computer|datamaskin|počítač|υπολογιστής|מחשב|calculator|számítógép
-নাম|nimi|navn|navn|jméno|όνομα|שם|nume|név
-মানুষ|ihmiset|mennesker|mennesker|lidé|άνθρωποι|אנשים|oameni|emberek
-পুরুষ|mies|mand|mann|muž|άντρας|גבר|bărbat|férfi
-নারী|nainen|kvinde|kvinne|žena|γυναίκα|אישה|femeie|nő
-বড়|iso|stor|stor|velký|μεγάλος|גדול|mare|nagy
-ছোট|pieni|lille|liten|malý|μικρός|קטן|mic|kicsi
-নতুন|uusi|ny|ny|nový|νέος|חדש|nou|új
-পুরনো|vanha|gammel|gammel|starý|παλιός|ישן|vechi|régi
-দ্রুত|nopea|hurtig|rask|rychlý|γρήγορος|מהיר|rapid|gyors
-ধীর|hidas|langsom|langsom|pomalý|αργός|איטי|lent|lassú
-সহজ|helppo|nem|lett|snadný|εύκολος|קל|ușor|könnyű
-কঠিন|vaikea|svær|vanskelig|těžký|δύσκολος|קשה|greu|nehéz
-গরম|kuuma|varm|varm|horký|ζεστός|חם|fierbinte|forró
-ঠান্ডা|kylmä|kold|kald|studený|κρύος|קר|rece|hideg
-এক|yksi|en|en|jedna|ένα|אחת|unu|egy
-দুই|kaksi|to|to|dva|δύο|שתיים|doi|kettő
-তিন|kolme|tre|tre|tři|τρία|שלוש|trei|három
-হয়|on|er|er|je|είναι|הוא|este|van
-হয়|ovat|er|er|jsou|είναι|הם|sunt|vannak
-না|ei|ikke|ikke|ne|δεν|לא|nu|nem
-আমার|minun|min|min|můj|μου|שלי|al meu|-m
-তোমার|sinun|din|din|tvůj|σου|שלך|al tău|-d
--|-|-|-|-|ο/η/το|ה|-|a/az
-একটি|-|en/et|en/et|-|ένας/μία/ένα|-|un/o|egy
-কে|-lle|til|til|do|σε|ל|la|-hoz
-মধ্যে|-ssa|i|i|v|σε|ב|în|-ban
-এর|-n|af|av|-|του|של|al|-nak
-জন্য|varten|for|for|pro|για|בשביל|pentru|számára
-হাহা|haha|haha|hehe|haha|χαχα|חחח|haha|haha
-বোকা|idiootti|idiot|idiot|idiot|ηλίθιος|אידיוט|idiot|idióta
-গাণ্ডু|kusipää|røvhul|rævhål|debil|μαλάκας|מטומטם|prost|faszfej
-খানকি|huora|luder|hore|kurva|πουτάνα|זונה|curvă|kurva
-কুত্তার বাচ্চা|paskiainen|skiderik|drittsekk|zmrd|μαλάκας|בן זונה|pizdeț|szemétláda
-চুতিয়া|vittu|lort|faen|píča|μαλάκας|כוס|pula|fasz
-শালা|mulkku|røv|ræv|kretén|μαλάκας|חארה|tâmpit|fasz
-হারামি|paskapää|luderunge|horeunge|hajzl|πουτάνα|זונה|curvă|kurva
-বাঁড়া|kyrpä|pik|pikk|čůrák|πουλί|זין|pula|fasz
-ভোদা|vittu|fisse|fitte|píča|μουνί|כוס|pizda|piná
-পুতকি|perse|røv|ræv|prdel|κώλος|תחת|cur|segg
-চোদা|nussia|kneppe|knulle|šoustat|γαμάω|לזיין|a fute|baszni
-ফাক ইউ|haista vittu|fuck dig|fuck deg|jdi do prdele|άντε γαμήσου|לך תזדיין|du-te-n pizda|menj a picsába
-ফাক অফ|painu vittuun|fuck af|fuck av|jdi do prdele|άντε στο διάολο|לך לעזאזל|du-te dracu|menj a francba
-সান অফ এ বিচ|paskiainen|skiderik|drittsekk|zmrd|μαλάκας|בן זונה|pizdeț|szemétláda
-ইডিয়ট|idiootti|idiot|idiot|idiot|ηλίθιος|אידיוט|idiot|idióta
-অ্যাসহোল|kusipää|røvhul|rævhål|prdel|κώλος|תחת|cur|seggfej
-বিচ|narttu|tæve|tispe|čubka|σκύλα|כלבה|cățea|szuka
-হোয়ার|huora|luder|hore|kurva|πουτάνα|זונה|curvă|kurva
-বাস্টার্ড|äpärä|bastard|bastard|parchant|μπάσταρδος|ממזר|bastard|fattyú
-শিট|paska|lort|skitt|hovno|σκατό|חרא|căcat|szar
-ফাক|vittu|fuck|fuck|kurva|γαμώ|זין|pula|fasz
-রিটার্ড|vajakki|retarderet|retard|debil|καθυστερημένος|מפגר|retardat|hülye
-মাদারফাকার|äidin nussija|motherfucker|motherfucker|kurva syn|μαλακισμένος|בן זונה|pula mea|anyád fasz
-পাসি|vittu|fisse|fitte|píča|μουνί|כוס|pizda|piná
-ডিক|kyrpä|pik|pikk|čůrák|πουλί|זין|pula|fasz
-অ্যাসহোল|kusipää|røvhul|rævhål|prdel|κώλος|תחת|cur|seggfej
-স্লাট|lutka|luder|hore|kurva|πουτάνα|זונה|curvă|kurva
+hello|hello|hola|olá|bonjour|hallo|ciao|hallo|cześć|merhaba|привет|привіт|مرحبا|नमस्ते|こんにちは|안녕하세요|你好|xin chào|halo|สวัสดี|hej|হ্যালো|hei|hej|hei|ahoj|γεια|שלום|salut|szia
+hi|hi|hola|oi|salut|hi|ciao|hoi|hej|selam|привет|привіт|أهلا|हाय|やあ|안녕|嗨|chào|hai|หวัดดี|hej|হাই|hei|hej|hei|ahoj|γεια|היי|salut|szia
+good morning|good morning|buenos días|bom dia|bonjour|guten morgen|buongiorno|goedemorgen|dzień dobry|günaydın|доброе утро|доброго ранку|صباح الخير|सुप्रभात|おはよう|좋은 아침|早上好|chào buổi sáng|selamat pagi|อรุณสวัสดิ์|god morgon|সুপ্রভাত|hyvää huomenta|godmorgen|god morgen|dobré ráno|καλημέρα|בוקר טוב|bună dimineața|jó reggelt
+good afternoon|good afternoon|buenas tardes|boa tarde|bon après-midi|guten tag|buon pomeriggio|goedemiddag|dzień dobry|tünaydın|добрый день|доброго дня|مساء الخير|शुभ दोपहर|こんにちは|안녕하세요|下午好|chào buổi chiều|selamat siang|สวัสดีตอนบ่าย|god eftermiddag|শুভ অপরাহ্ন|hyvää iltapäivää|god eftermiddag|god ettermiddag|dobré odpoledne|καλό απόγευμα|צהריים טובים|bună ziua|jó napot
+good evening|good evening|buenas noches|boa noite|bonsoir|guten abend|buonasera|goedenavond|dobry wieczór|iyi akşamlar|добрый вечер|добрий вечір|مساء الخير|शुभ संध्या|こんばんは|좋은 저녁|晚上好|chào buổi tối|selamat malam|สวัสดีตอนเย็น|god kväll|শুভ সন্ধ্যা|hyvää iltaa|god aften|god kveld|dobrý večer|καλησπέρα|ערב טוב|bună seara|jó estét
+good night|good night|buenas noches|boa noite|bonne nuit|gute nacht|buonanotte|welterusten|dobranoc|iyi geceler|спокойной ночи|на добраніч|تصبح على خير|शुभ रात्रि|おやすみ|잘 자|晚安|chúc ngủ ngon|selamat tidur|ราตรีสวัสดิ์|god natt|শুভ রাত্রি|hyvää yötä|godnat|god natt|dobrou noc|καληνύχτα|לילה טוב|noapte bună|jó éjszakát
+goodbye|goodbye|adiós|tchau|au revoir|tschüss|arrivederci|tot ziens|do widzenia|hoşça kal|до свидания|до побачення|مع السلامة|अलविदा|さようなら|안녕히 가세요|再见|tạm biệt|selamat tinggal|ลาก่อน|hej då|বিদায়|näkemiin|farvel|ha det|na shledanou|αντίο|להתראות|la revedere|viszlát
+bye|bye|adiós|tchau|salut|tschüss|ciao|doei|pa|bay bay|пока|бувай|باي|बाय|バイバイ|잘 가|拜拜|tạm biệt|dah|บาย|hej då|বাই|heippa|hej hej|ha det|čau|γεια|ביי|pa|pá
+see you later|see you later|hasta luego|até logo|à plus tard|bis später|a dopo|tot later|do zobaczenia|sonra görüşürüz|увидимся позже|побачимося пізніше|أراك لاحقا|बाद में मिलते हैं|またね|나중에 봐|回头见|hẹn gặp lại|sampai jumpa|แล้วเจอกัน|vi ses senare|পরে দেখা হবে|nähdään myöhemmin|vi ses senere|vi sees senere|uvidíme se později|τα λέμε αργότερα|נתראה אחר כך|pe mai târziu|később találkozunk
+see you tomorrow|see you tomorrow|hasta mañana|até amanhã|à demain|bis morgen|a domani|tot morgen|do jutra|yarın görüşürüz|до завтра|до завтра|أراك غدا|कल मिलते हैं|また明日|내일 봐|明天见|hẹn gặp ngày mai|sampai besok|เจอกันพรุ่งนี้|vi ses imorgon|কাল দেখা হবে|nähdään huomenna|vi ses i morgen|vi sees i morgen|uvidíme se zítra|τα λέμε αύριο|נתראה מחר|pe mâine|holnap találkozunk
+how are you|how are you|cómo estás|como você está|comment ça va|wie geht's|come stai|hoe gaat het|jak się masz|nasılsın|как дела|як справи|كيف حالك|आप कैसे हैं|元気ですか|잘 지내요|你好吗|bạn khỏe không|apa kabar|สบายดีไหม|hur mår du|তুমি কেমন আছ|mitä kuuluu|hvordan har du det|hvordan har du det|jak se máš|πώς είσαι|מה שלומך|ce mai faci|hogy vagy
+i am fine|i am fine|estoy bien|estou bem|je vais bien|mir geht's gut|sto bene|het gaat goed|dobrze|iyiyim|я в порядке|я в порядку|أنا بخير|मैं ठीक हूँ|元気です|잘 지내요|我很好|tôi khỏe|saya baik|สบายดี|jag mår bra|আমি ভালো আছি|minulla menee hyvin|jeg har det godt|jeg har det bra|mám se dobře|είμαι καλά|אני בסדר|sunt bine|jól vagyok
+thank you very much|thank you very much|muchas gracias|muito obrigado|merci beaucoup|vielen dank|grazie mille|heel erg bedankt|bardzo dziękuję|çok teşekkür ederim|большое спасибо|дуже дякую|شكرا جزيلا|बहुत धन्यवाद|どうもありがとうございます|정말 감사합니다|非常感谢|cảm ơn rất nhiều|terima kasih banyak|ขอบคุณมาก|tack så mycket|অনেক ধন্যবাদ|kiitos paljon|mange tak|tusen takk|mockrát děkuji|ευχαριστώ πολύ|תודה רבה|mulțumesc mult|nagyon köszönöm
+thank you|thank you|gracias|obrigado|merci|danke|grazie|dank je|dziękuję|teşekkür ederim|спасибо|дякую|شكرا|धन्यवाद|ありがとう|감사합니다|谢谢|cảm ơn|terima kasih|ขอบคุณ|tack|ধন্যবাদ|kiitos|tak|takk|děkuji|ευχαριστώ|תודה|mulțumesc|köszönöm
+thanks|thanks|gracias|valeu|merci|danke|grazie|bedankt|dzięki|sağ ol|спасибо|дякую|شكرا|थैंक्स|ありがとう|고마워|谢了|cảm ơn|makasih|ขอบใจ|tack|থ্যাঙ্কস|kiitti|tak|takk|díky|ευχαριστώ|תודה|mersi|köszi
+you're welcome|you're welcome|de nada|de nada|de rien|bitte|prego|graag gedaan|proszę bardzo|rica ederim|пожалуйста|будь ласка|عفوا|आपका स्वागत है|どういたしまして|천만에요|不客气|không có gì|sama-sama|ไม่เป็นไร|varsågod|স্বাগতম|ole hyvä|selv tak|bare hyggelig|není zač|παρακαλώ|בבקשה|cu plăcere|szívesen
+please|please|por favor|por favor|s'il vous plaît|bitte|per favore|alsjeblieft|proszę|lütfen|пожалуйста|будь ласка|من فضلك|कृपया|お願いします|제발|请|làm ơn|tolong|กรุณา|snälla|দয়া করে|ole hyvä|vær så venlig|vær så snill|prosím|παρακαλώ|בבקשה|te rog|kérlek
+sorry|sorry|lo siento|desculpa|désolé|entschuldigung|scusa|sorry|przepraszam|özür dilerim|извини|вибач|آسف|माफ़ कीजिए|ごめん|미안해|对不起|xin lỗi|maaf|ขอโทษ|förlåt|দুঃখিত|anteeksi|undskyld|unnskyld|promiň|συγγνώμη|סליחה|scuze|sajnálom
+excuse me|excuse me|disculpe|com licença|excusez-moi|entschuldigen sie|mi scusi|pardon|przepraszam|affedersiniz|извините|перепрошую|عذرا|क्षमा कीजिए|すみません|실례합니다|打扰一下|xin lỗi|permisi|ขอโทษครับ|ursäkta|দুঃখিত, শুনুন|anteeksi|undskyld mig|unnskyld meg|promiňte|με συγχωρείτε|סליחה|scuzați-mă|elnézést
+no problem|no problem|no hay problema|sem problema|pas de problème|kein problem|nessun problema|geen probleem|nie ma problemu|sorun değil|без проблем|без проблем|لا مشكلة|कोई बात नहीं|問題ない|문제없어요|没问题|không sao|tidak masalah|ไม่มีปัญหา|inga problem|কোনো সমস্যা নেই|ei se mitään|ingen problem|ikke noe problem|žádný problém|κανένα πρόβλημα|אין בעיה|nicio problemă|semmi gond
+of course|of course|por supuesto|claro|bien sûr|natürlich|certo|natuurlijk|oczywiście|tabii ki|конечно|звичайно|بالطبع|बिल्कुल|もちろん|물론이죠|当然|tất nhiên|tentu saja|แน่นอน|självklart|অবশ্যই|tietysti|selvfølgelig|selvfølgelig|samozřejmě|φυσικά|בטח|desigur|persze
+i love you|i love you|te quiero|eu te amo|je t'aime|ich liebe dich|ti amo|ik hou van je|kocham cię|seni seviyorum|я тебя люблю|я тебе кохаю|أحبك|मैं तुमसे प्यार करता हूँ|愛してる|사랑해|我爱你|anh yêu em|aku cinta kamu|ฉันรักเธอ|jag älskar dig|আমি তোমাকে ভালোবাসি|rakastan sinua|jeg elsker dig|jeg elsker deg|miluji tě|σ'αγαπώ|אני אוהב אותך|te iubesc|szeretlek
+i miss you|i miss you|te extraño|sinto sua falta|tu me manques|ich vermisse dich|mi manchi|ik mis je|tęsknię za tobą|seni özledim|я скучаю по тебе|я сумую за тобою|اشتقت إليك|मुझे तुम्हारी याद आती है|会いたい|보고 싶어|我想你|nhớ bạn|aku kangen kamu|คิดถึง|jag saknar dig|আমি তোমাকে মিস করি|kaipaan sinua|jeg savner dig|jeg savner deg|chybíš mi|μου λείπεις|אני מתגעגע אליך|mi-e dor de tine|hiányzol
+welcome|welcome|bienvenido|bem-vindo|bienvenue|willkommen|benvenuto|welkom|witaj|hoş geldin|добро пожаловать|ласкаво просимо|أهلا وسهلا|स्वागत है|ようこそ|환영합니다|欢迎|chào mừng|selamat datang|ยินดีต้อนรับ|välkommen|স্বাগতম|tervetuloa|velkommen|velkommen|vítejte|καλώς ήρθατε|ברוך הבא|bun venit|üdvözöljük
+congratulations|congratulations|felicidades|parabéns|félicitations|herzlichen glückwunsch|congratulazioni|gefeliciteerd|gratulacje|tebrikler|поздравляю|вітаю|مبروك|बधाई हो|おめでとう|축하해요|恭喜|chúc mừng|selamat|ยินดีด้วย|grattis|অভিনন্দন|onnittelut|tillykke|gratulerer|gratuluji|συγχαρητήρια|מזל טוב|felicitări|gratulálok
+happy birthday|happy birthday|feliz cumpleaños|feliz aniversário|joyeux anniversaire|alles gute zum geburtstag|buon compleanno|gefeliciteerd met je verjaardag|wszystkiego najlepszego|doğum günün kutlu olsun|с днём рождения|з днем народження|عيد ميلاد سعيد|जन्मदिन मुबारक|誕生日おめでとう|생일 축하해|生日快乐|chúc mừng sinh nhật|selamat ulang tahun|สุขสันต์วันเกิด|grattis på födelsedagen|শুভ জন্মদিন|hyvää syntymäpäivää|tillykke med fødselsdagen|gratulerer med dagen|všechno nejlepší k narozeninám|χρόνια πολλά|יום הולדת שמח|la mulți ani|boldog születésnapot
+good luck|good luck|buena suerte|boa sorte|bonne chance|viel glück|buona fortuna|veel succes|powodzenia|iyi şanslar|удачи|удачі|حظا سعيدا|शुभकामनाएं|頑張って|행운을 빌어요|祝你好运|chúc may mắn|semoga berhasil|โชคดี|lycka till|শুভকামনা|onnea matkaan|held og lykke|lykke til|hodně štěstí|καλή τύχη|בהצלחה|mult noroc|sok szerencsét
+have a nice day|have a nice day|que tengas un buen día|tenha um bom dia|bonne journée|schönen tag noch|buona giornata|fijne dag|miłego dnia|iyi günler|хорошего дня|гарного дня|يوما سعيدا|आपका दिन शुभ हो|良い一日を|좋은 하루 보내세요|祝你今天愉快|chúc một ngày tốt lành|semoga harimu menyenangkan|ขอให้มีวันที่ดี|ha en bra dag|তোমার দিনটি ভালো কাটুক|hyvää päivänjatkoa|hav en god dag|ha en fin dag|hezký den|καλή σου μέρα|שיהיה לך יום נעים|o zi bună|szép napot
+what is your name|what is your name|cómo te llamas|qual é o seu nome|comment tu t'appelles|wie heißt du|come ti chiami|hoe heet je|jak masz na imię|adın ne|как тебя зовут|як тебе звати|ما اسمك|आपका नाम क्या है|お名前は何ですか|이름이 뭐예요|你叫什么名字|bạn tên là gì|siapa namamu|คุณชื่ออะไร|vad heter du|তোমার নাম কি|mikä sinun nimesi on|hvad hedder du|hva heter du|jak se jmenuješ|πώς σε λένε|איך קוראים לך|cum te numești|hogy hívnak
+my name is|my name is|me llamo|meu nome é|je m'appelle|ich heiße|mi chiamo|ik heet|mam na imię|benim adım|меня зовут|мене звати|اسمي|मेरा नाम है|私の名前は|제 이름은|我叫|tôi tên là|nama saya|ฉันชื่อ|jag heter|আমার নাম|nimeni on|jeg hedder|jeg heter|jmenuji se|με λένε|קוראים לי|numele meu este|a nevem
+nice to meet you|nice to meet you|mucho gusto|prazer em conhecê-lo|enchanté|freut mich|piacere|aangenaam|miło cię poznać|tanıştığıma memnun oldum|приятно познакомиться|приємно познайомитися|تشرفت بمعرفتك|आपसे मिलकर खुशी हुई|はじめまして|만나서 반가워요|很高兴认识你|rất vui được gặp bạn|senang bertemu denganmu|ยินดีที่ได้รู้จัก|trevligt att träffas|তোমার সাথে পরিচিত হয়ে ভালো লাগলো|hauska tutustua|rart at møde dig|hyggelig å møte deg|těší mě|χάρηκα για τη γνωριμία|נעים מאוד|încântat de cunoștință|örvendek
+where are you from|where are you from|de dónde eres|de onde você é|d'où viens-tu|woher kommst du|di dove sei|waar kom je vandaan|skąd jesteś|nerelisin|откуда ты|звідки ти|من أين أنت|आप कहाँ से हैं|どこから来ましたか|어디에서 왔어요|你是哪里人|bạn từ đâu đến|kamu dari mana|คุณมาจากไหน|varifrån kommer du|তুমি কোথা থেকে এসেছ|mistä olet kotoisin|hvor er du fra|hvor er du fra|odkud jsi|από πού είσαι|מאיפה אתה|de unde ești|honnan jössz
+i don't understand|i don't understand|no entiendo|não entendo|je ne comprends pas|ich verstehe nicht|non capisco|ik begrijp het niet|nie rozumiem|anlamıyorum|я не понимаю|я не розумію|لا أفهم|मुझे समझ नहीं आया|わかりません|이해가 안 돼요|我不明白|tôi không hiểu|saya tidak mengerti|ฉันไม่เข้าใจ|jag förstår inte|আমি বুঝতে পারছি না|en ymmärrä|jeg forstår ikke|jeg forstår ikke|nerozumím|δεν καταλαβαίνω|אני לא מבין|nu înțeleg|nem értem
+i understand|i understand|entiendo|entendo|je comprends|ich verstehe|capisco|ik begrijp het|rozumiem|anlıyorum|я понимаю|я розумію|أفهم|मैं समझता हूँ|わかります|알겠어요|我明白|tôi hiểu|saya mengerti|ฉันเข้าใจ|jag förstår|আমি বুঝেছি|ymmärrän|jeg forstår|jeg forstår|rozumím|καταλαβαίνω|אני מבין|înțeleg|értem
+i don't know|i don't know|no sé|não sei|je ne sais pas|ich weiß nicht|non lo so|ik weet het niet|nie wiem|bilmiyorum|я не знаю|я не знаю|لا أعرف|मुझे नहीं पता|わからない|몰라요|我不知道|tôi không biết|saya tidak tahu|ไม่รู้|jag vet inte|আমি জানি না|en tiedä|jeg ved det ikke|jeg vet ikke|nevím|δεν ξέρω|אני לא יודע|nu știu|nem tudom
+do you speak english|do you speak english|hablas inglés|você fala inglês|parles-tu anglais|sprichst du englisch|parli inglese|spreek je engels|mówisz po angielsku|ingilizce konuşuyor musun|ты говоришь по-английски|ти розмовляєш англійською|هل تتكلم الإنجليزية|क्या आप अंग्रेज़ी बोलते हैं|英語を話せますか|영어 할 줄 알아요|你会说英语吗|bạn có nói tiếng anh không|apakah kamu bisa bahasa inggris|คุณพูดภาษาอังกฤษได้ไหม|pratar du engelska|তুমি কি ইংরেজি বলতে পারো|puhutko englantia|taler du engelsk|snakker du engelsk|mluvíš anglicky|μιλάς αγγλικά|אתה מדבר אנגלית|vorbești engleză|beszélsz angolul
+can you help me|can you help me|puedes ayudarme|você pode me ajudar|peux-tu m'aider|kannst du mir helfen|puoi aiutarmi|kun je me helpen|możesz mi pomóc|bana yardım edebilir misin|можешь мне помочь|можеш мені допомогти|هل يمكنك مساعدتي|क्या आप मेरी मदद कर सकते हैं|手伝ってくれますか|도와줄 수 있어요|你能帮我吗|bạn có thể giúp tôi không|bisakah kamu membantuku|ช่วยฉันได้ไหม|kan du hjälpa mig|তুমি কি আমাকে সাহায্য করতে পারো|voitko auttaa minua|kan du hjælpe mig|kan du hjelpe meg|můžeš mi pomoct|μπορείς να με βοηθήσεις|תוכל לעזור לי|mă poți ajuta|segítenél nekem
+what are you doing|what are you doing|qué haces|o que você está fazendo|qu'est-ce que tu fais|was machst du|cosa fai|wat ben je aan het doen|co robisz|ne yapıyorsun|что ты делаешь|що ти робиш|ماذا تفعل|तुम क्या कर रहे हो|何してる|뭐 해요|你在做什么|bạn đang làm gì|kamu sedang apa|ทำอะไรอยู่|vad gör du|তুমি কি করছ|mitä teet|hvad laver du|hva gjør du|co děláš|τι κάνεις|מה אתה עושה|ce faci|mit csinálsz
+let's play|let's play|vamos a jugar|vamos jogar|on joue|lass uns spielen|giochiamo|laten we spelen|zagrajmy|hadi oynayalım|давай играть|давай грати|هيا نلعب|चलो खेलते हैं|遊ぼう|놀자|我们玩吧|chơi thôi|ayo main|มาเล่นกัน|vi spelar|চলো খেলি|pelataan|lad os spille|la oss spille|pojďme si hrát|πάμε να παίξουμε|בוא נשחק|hai să ne jucăm|játsszunk
+what time is it|what time is it|qué hora es|que horas são|quelle heure est-il|wie spät ist es|che ore sono|hoe laat is het|która godzina|saat kaç|который час|котра година|كم الساعة|कितने बजे हैं|今何時ですか|몇 시예요|几点了|mấy giờ rồi|jam berapa|กี่โมงแล้ว|vad är klockan|এখন কয়টা বাজে|mitä kello on|hvad er klokken|hva er klokka|kolik je hodin|τι ώρα είναι|מה השעה|cât e ceasul|hány óra van
+how much|how much|cuánto|quanto|combien|wie viel|quanto|hoeveel|ile|ne kadar|сколько|скільки|كم|कितना|いくら|얼마|多少|bao nhiêu|berapa|เท่าไหร่|hur mycket|কত|paljonko|hvor meget|hvor mye|kolik|πόσο|כמה|cât|mennyi
+are you okay|are you okay|estás bien|você está bem|ça va|geht es dir gut|stai bene|gaat het|wszystko w porządku|iyi misin|ты в порядке|ти в порядку|هل أنت بخير|क्या तुम ठीक हो|大丈夫|괜찮아요|你还好吗|bạn ổn không|kamu baik-baik saja|โอเคไหม|är du okej|তুমি কি ঠিক আছ|oletko kunnossa|er du okay|går det bra med deg|jsi v pořádku|είσαι εντάξει|אתה בסדר|ești bine|jól vagy
+me too|me too|yo también|eu também|moi aussi|ich auch|anch'io|ik ook|ja też|ben de|я тоже|я теж|وأنا أيضا|मैं भी|私も|나도|我也是|tôi cũng vậy|aku juga|ฉันด้วย|jag också|আমিও|minäkin|mig også|meg også|já taky|κι εγώ|גם אני|și eu|én is
+not bad|not bad|no está mal|nada mal|pas mal|nicht schlecht|non male|niet slecht|nieźle|fena değil|неплохо|непогано|ليس سيئا|बुरा नहीं|悪くない|나쁘지 않아|不错|không tệ|lumayan|ไม่เลว|inte illa|খারাপ না|ei paha|ikke dårligt|ikke verst|není to špatné|δεν είναι άσχημο|לא רע|nu-i rău|nem rossz
+very good|very good|muy bien|muito bem|très bien|sehr gut|molto bene|heel goed|bardzo dobrze|çok iyi|очень хорошо|дуже добре|جيد جدا|बहुत अच्छा|とても良い|아주 좋아요|很好|rất tốt|sangat bagus|ดีมาก|mycket bra|খুব ভালো|erittäin hyvä|meget godt|veldig bra|moc dobré|πολύ καλό|טוב מאוד|foarte bine|nagyon jó
+right now|right now|ahora mismo|agora mesmo|tout de suite|jetzt sofort|subito|nu meteen|teraz|şimdi|прямо сейчас|прямо зараз|الآن|अभी|今すぐ|지금 바로|现在|ngay bây giờ|sekarang juga|ตอนนี้|just nu|এখনই|juuri nyt|lige nu|akkurat nå|právě teď|αυτή τη στιγμή|ממש עכשיו|chiar acum|most rögtön
+happy new year|happy new year|feliz año nuevo|feliz ano novo|bonne année|frohes neues jahr|buon anno|gelukkig nieuwjaar|szczęśliwego nowego roku|mutlu yıllar|с новым годом|з новим роком|سنة سعيدة|नया साल मुबारक|新年快乐|새해 복 많이 받으세요|新年快乐|chúc mừng năm mới|selamat tahun baru|สวัสดีปีใหม่|gott nytt år|শুভ নববর্ষ|hyvää uutta vuotta|godt nytår|godt nyttår|šťastný nový rok|καλή χρονιά|שנה טובה|la mulți ani|boldog új évet
+merry christmas|merry christmas|feliz navidad|feliz natal|joyeux noël|frohe weihnachten|buon natale|vrolijk kerstfeest|wesołych świąt|mutlu noeller|с рождеством|з різдвом|عيد ميلاد مجيد|क्रिसमस की शुभकामनाएं|メリークリスマス|메리 크리스마스|圣诞快乐|giáng sinh vui vẻ|selamat natal|สุขสันต์วันคริสต์มาส|god jul|শুভ বড়দিন|hyvää joulua|glædelig jul|god jul|veselé vánoce|καλά χριστούγεννα|חג מולד שמח|crăciun fericit|boldog karácsonyt
+yes|yes|sí|sim|oui|ja|sì|ja|tak|evet|да|так|نعم|हाँ|はい|네|是|vâng|ya|ใช่|ja|হ্যাঁ|kyllä|ja|ja|ano|ναι|כן|da|igen
+no|no|no|não|non|nein|no|nee|nie|hayır|нет|ні|لا|नहीं|いいえ|아니요|不|không|tidak|ไม่|nej|না|ei|nej|nei|ne|όχι|לא|nu|nem
+ok|ok|vale|ok|d'accord|okay|va bene|oké|dobrze|tamam|хорошо|добре|حسنا|ठीक है|オーケー|알았어|好的|được|oke|โอเค|okej|ঠিক আছে|okei|okay|ok|dobře|εντάξει|בסדר|bine|oké
+maybe|maybe|quizás|talvez|peut-être|vielleicht|forse|misschien|może|belki|может быть|можливо|ربما|शायद|たぶん|아마|也许|có lẽ|mungkin|อาจจะ|kanske|হয়তো|ehkä|måske|kanskje|možná|ίσως|אולי|poate|talán
+i|i|yo|eu|je|ich|io|ik|ja|ben|я|я|أنا|मैं|私|나|我|tôi|saya|ฉัน|jag|আমি|minä|jeg|jeg|já|εγώ|אני|eu|én
+you|you|tú|você|tu|du|tu|jij|ty|sen|ты|ти|أنت|तुम|あなた|너|你|bạn|kamu|คุณ|du|তুমি|sinä|du|du|ty|εσύ|אתה|tu|te
+he|he|él|ele|il|er|lui|hij|on|o|он|він|هو|वह|彼|그|他|anh ấy|dia|เขา|han|সে|hän|han|han|on|αυτός|הוא|el|ő
+she|she|ella|ela|elle|sie|lei|zij|ona|o|она|вона|هي|वह|彼女|그녀|她|cô ấy|dia|เธอ|hon|সে|hän|hun|hun|ona|αυτή|היא|ea|ő
+we|we|nosotros|nós|nous|wir|noi|wij|my|biz|мы|ми|نحن|हम|私たち|우리|我们|chúng tôi|kami|เรา|vi|আমরা|me|vi|vi|my|εμείς|אנחנו|noi|mi
+they|they|ellos|eles|ils|sie|loro|zij|oni|onlar|они|вони|هم|वे|彼ら|그들|他们|họ|mereka|พวกเขา|de|তারা|he|de|de|oni|αυτοί|הם|ei|ők
+this|this|esto|isto|ceci|das|questo|dit|to|bu|это|це|هذا|यह|これ|이것|这|cái này|ini|นี่|det här|এই|tämä|dette|dette|tohle|αυτό|זה|acesta|ez
+that|that|eso|isso|cela|das|quello|dat|tamto|şu|то|те|ذلك|वह|それ|그것|那|cái đó|itu|นั่น|det där|ওই|tuo|det|det|tamto|εκείνο|זה|acela|az
+what|what|qué|o que|quoi|was|cosa|wat|co|ne|что|що|ماذا|क्या|何|뭐|什么|cái gì|apa|อะไร|vad|কী|mitä|hvad|hva|co|τι|מה|ce|mi
+who|who|quién|quem|qui|wer|chi|wie|kto|kim|кто|хто|من|कौन|誰|누구|谁|ai|siapa|ใคร|vem|কে|kuka|hvem|hvem|kdo|ποιος|מי|cine|ki
+where|where|dónde|onde|où|wo|dove|waar|gdzie|nerede|где|де|أين|कहाँ|どこ|어디|哪里|ở đâu|di mana|ที่ไหน|var|কোথায়|missä|hvor|hvor|kde|πού|איפה|unde|hol
+when|when|cuándo|quando|quand|wann|quando|wanneer|kiedy|ne zaman|когда|коли|متى|कब|いつ|언제|什么时候|khi nào|kapan|เมื่อไหร่|när|কখন|milloin|hvornår|når|kdy|πότε|מתי|când|mikor
+why|why|por qué|por que|pourquoi|warum|perché|waarom|dlaczego|neden|почему|чому|لماذا|क्यों|なぜ|왜|为什么|tại sao|kenapa|ทำไม|varför|কেন|miksi|hvorfor|hvorfor|proč|γιατί|למה|de ce|miért
+how|how|cómo|como|comment|wie|come|hoe|jak|nasıl|как|як|كيف|कैसे|どう|어떻게|怎么|như thế nào|bagaimana|อย่างไร|hur|কিভাবে|miten|hvordan|hvordan|jak|πώς|איך|cum|hogyan
+good|good|bueno|bom|bon|gut|buono|goed|dobry|iyi|хорошо|добре|جيد|अच्छा|良い|좋은|好|tốt|baik|ดี|bra|ভালো|hyvä|god|god|dobrý|καλός|טוב|bun|jó
+bad|bad|malo|mau|mauvais|schlecht|cattivo|slecht|zły|kötü|плохо|погано|سيء|बुरा|悪い|나쁜|坏|tệ|buruk|ไม่ดี|dålig|খারাপ|huono|dårlig|dårlig|špatný|κακός|רע|rău|rossz
+great|great|genial|ótimo|génial|toll|fantastico|geweldig|świetnie|harika|отлично|чудово|رائع|बढ़िया|すごい|대박|太棒了|tuyệt vời|hebat|เยี่ยม|toppen|দারুণ|mahtava|fantastisk|fantastisk|skvělý|υπέροχο|נהדר|minunat|nagyszerű
+cool|cool|genial|legal|cool|cool|figo|gaaf|fajnie|güzel|круто|круто|رائع|कूल|かっこいい|멋져요|酷|ngầu|keren|เท่|coolt|দারুণ|siistiä|sejt|kult|super|ωραίο|מגניב|mișto|menő
+beautiful|beautiful|hermoso|bonito|beau|schön|bello|mooi|piękny|güzel|красивый|гарний|جميل|सुंदर|きれい|아름다운|漂亮|đẹp|cantik|สวย|vacker|সুন্দর|kaunis|smuk|vakker|krásný|όμορφος|יפה|frumos|gyönyörű
+funny|funny|gracioso|engraçado|drôle|lustig|divertente|grappig|zabawny|komik|смешно|смішно|مضحك|मज़ेदार|面白い|웃겨요|好笑|buồn cười|lucu|ตลก|rolig|মজার|hauska|sjov|morsom|vtipný|αστείο|מצחיק|amuzant|vicces
+happy|happy|feliz|feliz|heureux|glücklich|felice|blij|szczęśliwy|mutlu|счастливый|щасливий|سعيد|खुश|嬉しい|행복해요|快乐|vui|senang|มีความสุข|glad|খুশি|iloinen|glad|glad|šťastný|χαρούμενος|שמח|fericit|boldog
+sad|sad|triste|triste|triste|traurig|triste|verdrietig|smutny|üzgün|грустно|сумно|حزين|उदास|悲しい|슬퍼요|难过|buồn|sedih|เศร้า|ledsen|দুঃখিত|surullinen|trist|trist|smutný|λυπημένος|עצוב|trist|szomorú
+tired|tired|cansado|cansado|fatigué|müde|stanco|moe|zmęczony|yorgun|устал|втомлений|متعب|थका हुआ|疲れた|피곤해요|累|mệt|capek|เหนื่อย|trött|ক্লান্ত|väsynyt|træt|trøtt|unavený|κουρασμένος|עייף|obosit|fáradt
+hungry|hungry|hambriento|com fome|faim|hungrig|affamato|honger|głodny|aç|голодный|голодний|جائع|भूखा|お腹が空いた|배고파요|饿|đói|lapar|หิว|hungrig|ক্ষুধার্ত|nälkäinen|sulten|sulten|hladový|πεινασμένος|רעב|flămând|éhes
+friend|friend|amigo|amigo|ami|freund|amico|vriend|przyjaciel|arkadaş|друг|друг|صديق|दोस्त|友達|친구|朋友|bạn|teman|เพื่อน|vän|বন্ধু|ystävä|ven|venn|přítel|φίλος|חבר|prieten|barát
+friends|friends|amigos|amigos|amis|freunde|amici|vrienden|przyjaciele|arkadaşlar|друзья|друзі|أصدقاء|दोस्त|友達|친구들|朋友们|bạn bè|teman-teman|เพื่อนๆ|vänner|বন্ধুরা|ystävät|venner|venner|přátelé|φίλοι|חברים|prieteni|barátok
+family|family|familia|família|famille|familie|famiglia|familie|rodzina|aile|семья|сім'я|عائلة|परिवार|家族|가족|家人|gia đình|keluarga|ครอบครัว|familj|পরিবার|perhe|familie|familie|rodina|οικογένεια|משפחה|familie|család
+love|love|amor|amor|amour|liebe|amore|liefde|miłość|aşk|любовь|кохання|حب|प्यार|愛|사랑|爱|tình yêu|cinta|ความรัก|kärlek|ভালোবাসা|rakkaus|kærlighed|kjærlighet|láska|αγάπη|אהבה|dragoste|szerelem
+game|game|juego|jogo|jeu|spiel|gioco|spel|gra|oyun|игра|гра|لعبة|खेल|ゲーム|게임|游戏|trò chơi|permainan|เกม|spel|খেলা|peli|spil|spill|hra|παιχνίδι|משחק|joc|játék
+games|games|juegos|jogos|jeux|spiele|giochi|spellen|gry|oyunlar|игры|ігри|ألعاب|खेल|ゲーム|게임|游戏|trò chơi|game|เกม|spel|খেলাগুলো|pelit|spil|spill|hry|παιχνίδια|משחקים|jocuri|játékok
+music|music|música|música|musique|musik|musica|muziek|muzyka|müzik|музыка|музика|موسيقى|संगीत|音楽|음악|音乐|âm nhạc|musik|เพลง|musik|সঙ্গীত|musiikki|musik|musikk|hudba|μουσική|מוזיקה|muzică|zene
+movie|movie|película|filme|film|film|film|film|film|film|фильм|фільм|فيلم|फ़िल्म|映画|영화|电影|phim|film|หนัง|film|চলচ্চিত্র|elokuva|film|film|film|ταινία|סרט|film|film
+food|food|comida|comida|nourriture|essen|cibo|eten|jedzenie|yemek|еда|їжа|طعام|खाना|食べ物|음식|食物|đồ ăn|makanan|อาหาร|mat|খাবার|ruoka|mad|mat|jídlo|φαγητό|אוכל|mâncare|étel
+water|water|agua|água|eau|wasser|acqua|water|woda|su|вода|вода|ماء|पानी|水|물|水|nước|air|น้ำ|vatten|জল|vesi|vand|vann|voda|νερό|מים|apă|víz
+school|school|escuela|escola|école|schule|scuola|school|szkoła|okul|школа|школа|مدرسة|स्कूल|学校|학교|学校|trường học|sekolah|โรงเรียน|skola|স্কুল|koulu|skole|skole|škola|σχολείο|בית ספר|școală|iskola
+work|work|trabajo|trabalho|travail|arbeit|lavoro|werk|praca|iş|работа|робота|عمل|काम|仕事|일|工作|công việc|kerja|งาน|jobb|কাজ|työ|arbejde|jobb|práce|δουλειά|עבודה|muncă|munka
+home|home|casa|casa|maison|zuhause|casa|thuis|dom|ev|дом|дім|بيت|घर|家|집|家|nhà|rumah|บ้าน|hem|বাড়ি|koti|hjem|hjem|domov|σπίτι|בית|acasă|otthon
+time|time|tiempo|tempo|temps|zeit|tempo|tijd|czas|zaman|время|час|وقت|समय|時間|시간|时间|thời gian|waktu|เวลา|tid|সময়|aika|tid|tid|čas|χρόνος|זמן|timp|idő
+day|day|día|dia|jour|tag|giorno|dag|dzień|gün|день|день|يوم|दिन|日|날|天|ngày|hari|วัน|dag|দিন|päivä|dag|dag|den|μέρα|יום|zi|nap
+night|night|noche|noite|nuit|nacht|notte|nacht|noc|gece|ночь|ніч|ليل|रात|夜|밤|晚上|đêm|malam|กลางคืน|natt|রাত|yö|nat|natt|noc|νύχτα|לילה|noapte|éjszaka
+today|today|hoy|hoje|aujourd'hui|heute|oggi|vandaag|dzisiaj|bugün|сегодня|сьогодні|اليوم|आज|今日|오늘|今天|hôm nay|hari ini|วันนี้|idag|আজ|tänään|i dag|i dag|dnes|σήμερα|היום|astăzi|ma
+tomorrow|tomorrow|mañana|amanhã|demain|morgen|domani|morgen|jutro|yarın|завтра|завтра|غدا|कल|明日|내일|明天|ngày mai|besok|พรุ่งนี้|imorgon|আগামীকাল|huomenna|i morgen|i morgen|zítra|αύριο|מחר|mâine|holnap
+yesterday|yesterday|ayer|ontem|hier|gestern|ieri|gisteren|wczoraj|dün|вчера|вчора|أمس|कल|昨日|어제|昨天|hôm qua|kemarin|เมื่อวาน|igår|গতকাল|eilen|i går|i går|včera|χθες|אתמול|ieri|tegnap
+now|now|ahora|agora|maintenant|jetzt|ora|nu|teraz|şimdi|сейчас|зараз|الآن|अब|今|지금|现在|bây giờ|sekarang|ตอนนี้|nu|এখন|nyt|nu|nå|teď|τώρα|עכשיו|acum|most
+later|later|luego|mais tarde|plus tard|später|più tardi|later|później|sonra|позже|пізніше|لاحقا|बाद में|後で|나중에|以后|sau|nanti|ทีหลัง|senare|পরে|myöhemmin|senere|senere|později|αργότερα|אחר כך|mai târziu|később
+soon|soon|pronto|logo|bientôt|bald|presto|binnenkort|wkrótce|yakında|скоро|скоро|قريبا|जल्द ही|もうすぐ|곧|很快|sớm|segera|เร็วๆ นี้|snart|শীঘ্রই|pian|snart|snart|brzy|σύντομα|בקרוב|curând|hamarosan
+always|always|siempre|sempre|toujours|immer|sempre|altijd|zawsze|her zaman|всегда|завжди|دائما|हमेशा|いつも|항상|总是|luôn luôn|selalu|เสมอ|alltid|সবসময়|aina|altid|alltid|vždy|πάντα|תמיד|întotdeauna|mindig
+never|never|nunca|nunca|jamais|nie|mai|nooit|nigdy|asla|никогда|ніколи|أبدا|कभी नहीं|決して|절대|从不|không bao giờ|tidak pernah|ไม่เคย|aldrig|কখনও না|ei koskaan|aldrig|aldri|nikdy|ποτέ|אף פעם|niciodată|soha
+here|here|aquí|aqui|ici|hier|qui|hier|tutaj|burada|здесь|тут|هنا|यहाँ|ここ|여기|这里|ở đây|di sini|ที่นี่|här|এখানে|täällä|her|her|tady|εδώ|כאן|aici|itt
+there|there|allí|ali|là|dort|lì|daar|tam|orada|там|там|هناك|वहाँ|そこ|거기|那里|ở đó|di sana|ที่นั่น|där|সেখানে|tuolla|der|der|tam|εκεί|שם|acolo|ott
+with|with|con|com|avec|mit|con|met|z|ile|с|з|مع|के साथ|と一緒に|와 함께|和|với|dengan|กับ|med|সাথে|kanssa|med|med|s|με|עם|cu|-val
+without|without|sin|sem|sans|ohne|senza|zonder|bez|olmadan|без|без|بدون|बिना|なしで|없이|没有|không có|tanpa|ไม่มี|utan|ছাড়া|ilman|uden|uten|bez|χωρίς|בלי|fără|nélkül
+and|and|y|e|et|und|e|en|i|ve|и|і|و|और|と|그리고|和|và|dan|และ|och|এবং|ja|og|og|a|και|ו|și|és
+or|or|o|ou|ou|oder|o|of|lub|veya|или|або|أو|या|または|또는|或者|hoặc|atau|หรือ|eller|অথবা|tai|eller|eller|nebo|ή|או|sau|vagy
+but|but|pero|mas|mais|aber|ma|maar|ale|ama|но|але|لكن|लेकिन|でも|하지만|但是|nhưng|tapi|แต่|men|কিন্তু|mutta|men|men|ale|αλλά|אבל|dar|de
+because|because|porque|porque|parce que|weil|perché|omdat|ponieważ|çünkü|потому что|тому що|لأن|क्योंकि|なぜなら|왜냐하면|因为|bởi vì|karena|เพราะ|eftersom|কারণ|koska|fordi|fordi|protože|επειδή|כי|pentru că|mert
+very|very|muy|muito|très|sehr|molto|heel|bardzo|çok|очень|дуже|جدا|बहुत|とても|아주|很|rất|sangat|มาก|mycket|খুব|hyvin|meget|veldig|velmi|πολύ|מאוד|foarte|nagyon
+more|more|más|mais|plus|mehr|più|meer|więcej|daha|больше|більше|أكثر|अधिक|もっと|더|更多|nhiều hơn|lebih|มากกว่า|mer|আরো|lisää|mere|mer|víc|περισσότερο|יותר|mai mult|több
+all|all|todo|todo|tout|alle|tutto|alle|wszystko|hepsi|все|все|كل|सब|全部|모두|所有|tất cả|semua|ทั้งหมด|alla|সব|kaikki|alle|alle|všichni|όλα|הכל|tot|minden
+everyone|everyone|todos|todos|tout le monde|alle|tutti|iedereen|wszyscy|herkes|все|усі|الجميع|सब लोग|みんな|모두|大家|mọi người|semua orang|ทุกคน|alla|সবাই|kaikki|alle|alle|všichni|όλοι|כולם|toată lumea|mindenki
+nothing|nothing|nada|nada|rien|nichts|niente|niets|nic|hiçbir şey|ничего|нічого|لا شيء|कुछ नहीं|何も|아무것도|没什么|không có gì|tidak ada|ไม่มีอะไร|ingenting|কিছু না|ei mitään|ingenting|ingenting|nic|τίποτα|שום דבר|nimic|semmi
+something|something|algo|algo|quelque chose|etwas|qualcosa|iets|coś|bir şey|что-то|щось|شيء ما|कुछ|何か|뭔가|某事|cái gì đó|sesuatu|บางอย่าง|något|কিছু|jotain|noget|noe|něco|κάτι|משהו|ceva|valami
+want|want|querer|querer|vouloir|wollen|volere|willen|chcieć|istemek|хотеть|хотіти|يريد|चाहना|欲しい|원하다|想要|muốn|mau|อยากได้|vilja|চাই|haluta|ville|ville|chtít|θέλω|רוצה|a vrea|akar
+need|need|necesitar|precisar|avoir besoin|brauchen|avere bisogno|nodig hebben|potrzebować|ihtiyaç|нужно|потрібно|يحتاج|ज़रूरत|必要|필요|需要|cần|perlu|ต้องการ|behöva|দরকার|tarvita|behøve|trenge|potřebovat|χρειάζομαι|צריך|a avea nevoie|szükség
+help|help|ayuda|ajuda|aide|hilfe|aiuto|hulp|pomoc|yardım|помощь|допомога|مساعدة|मदद|助けて|도움|帮助|giúp đỡ|bantuan|ช่วย|hjälp|সাহায্য|apu|hjælp|hjelp|pomoc|βοήθεια|עזרה|ajutor|segítség
+know|know|saber|saber|savoir|wissen|sapere|weten|wiedzieć|bilmek|знать|знати|يعرف|जानना|知る|알다|知道|biết|tahu|รู้|veta|জানা|tietää|vide|vite|vědět|ξέρω|לדעת|a ști|tud
+think|think|pensar|pensar|penser|denken|pensare|denken|myśleć|düşünmek|думать|думати|يفكر|सोचना|思う|생각하다|想|nghĩ|pikir|คิด|tänka|ভাবা|ajatella|tænke|tenke|myslet|νομίζω|לחשוב|a gândi|gondol
+like|like|gustar|gostar|aimer|mögen|piacere|leuk vinden|lubić|sevmek|нравиться|подобатися|يحب|पसंद|好き|좋아하다|喜欢|thích|suka|ชอบ|gilla|পছন্দ করা|pitää|kunne lide|like|mít rád|μου αρέσει|לאהוב|a plăcea|szeret
+play|play|jugar|jogar|jouer|spielen|giocare|spelen|grać|oynamak|играть|грати|يلعب|खेलना|遊ぶ|놀다|玩|chơi|main|เล่น|spela|খেলা|leikkiä|lege|leke|hrát|παίζω|לשחק|a juca|játszik
+eat|eat|comer|comer|manger|essen|mangiare|eten|jeść|yemek|есть|їсти|يأكل|खाना|食べる|먹다|吃|ăn|makan|กิน|äta|খাওয়া|syödä|spise|spise|jíst|τρώω|לאכול|a mânca|eszik
+sleep|sleep|dormir|dormir|dormir|schlafen|dormire|slapen|spać|uyumak|спать|спати|ينام|सोना|寝る|자다|睡觉|ngủ|tidur|นอน|sova|ঘুমানো|nukkua|sove|sove|spát|κοιμάμαι|לישון|a dormi|alszik
+go|go|ir|ir|aller|gehen|andare|gaan|iść|gitmek|идти|йти|يذهب|जाना|行く|가다|去|đi|pergi|ไป|gå|যাওয়া|mennä|gå|gå|jít|πηγαίνω|ללכת|a merge|megy
+come|come|venir|vir|venir|kommen|venire|komen|przyjść|gelmek|прийти|прийти|يأتي|आना|来る|오다|来|đến|datang|มา|komma|আসা|tulla|komme|komme|přijít|έρχομαι|לבוא|a veni|jön
+see|see|ver|ver|voir|sehen|vedere|zien|widzieć|görmek|видеть|бачити|يرى|देखना|見る|보다|看|thấy|lihat|เห็น|se|দেখা|nähdä|se|se|vidět|βλέπω|לראות|a vedea|lát
+talk|talk|hablar|falar|parler|sprechen|parlare|praten|rozmawiać|konuşmak|говорить|говорити|يتكلم|बात करना|話す|말하다|说话|nói chuyện|bicara|พูด|prata|কথা বলা|puhua|snakke|snakke|mluvit|μιλάω|לדבר|a vorbi|beszél
+message|message|mensaje|mensagem|message|nachricht|messaggio|bericht|wiadomość|mesaj|сообщение|повідомлення|رسالة|संदेश|メッセージ|메시지|消息|tin nhắn|pesan|ข้อความ|meddelande|বার্তা|viesti|besked|melding|zpráva|μήνυμα|הודעה|mesaj|üzenet
+server|server|servidor|servidor|serveur|server|server|server|serwer|sunucu|сервер|сервер|خادم|सर्वर|サーバー|서버|服务器|máy chủ|server|เซิร์ฟเวอร์|server|সার্ভার|palvelin|server|server|server|διακομιστής|שרת|server|szerver
+channel|channel|canal|canal|salon|kanal|canale|kanaal|kanał|kanal|канал|канал|قناة|चैनल|チャンネル|채널|频道|kênh|saluran|ช่อง|kanal|চ্যানেল|kanava|kanal|kanal|kanál|κανάλι|ערוץ|canal|csatorna
+call|call|llamada|chamada|appel|anruf|chiamata|oproep|połączenie|arama|звонок|дзвінок|مكالمة|कॉल|通話|통화|通话|cuộc gọi|panggilan|โทร|samtal|কল|puhelu|opkald|anrop|hovor|κλήση|שיחה|apel|hívás
+voice|voice|voz|voz|voix|stimme|voce|stem|głos|ses|голос|голос|صوت|आवाज़|声|목소리|声音|giọng nói|suara|เสียง|röst|কণ্ঠস্বর|ääni|stemme|stemme|hlas|φωνή|קול|voce|hang
+picture|picture|foto|foto|photo|bild|foto|foto|zdjęcie|resim|фото|фото|صورة|तस्वीर|写真|사진|图片|ảnh|gambar|รูป|bild|ছবি|kuva|billede|bilde|obrázek|εικόνα|תמונה|poză|kép
+video|video|vídeo|vídeo|vidéo|video|video|video|wideo|video|видео|відео|فيديو|वीडियो|動画|동영상|视频|video|video|วิดีโอ|video|ভিডিও|video|video|video|video|βίντεο|וידאו|video|videó
+phone|phone|teléfono|telefone|téléphone|telefon|telefono|telefoon|telefon|telefon|телефон|телефон|هاتف|फ़ोन|電話|전화|电话|điện thoại|telepon|โทรศัพท์|telefon|ফোন|puhelin|telefon|telefon|telefon|τηλέφωνο|טלפון|telefon|telefon
+computer|computer|computadora|computador|ordinateur|computer|computer|computer|komputer|bilgisayar|компьютер|комп'ютер|حاسوب|कंप्यूटर|コンピューター|컴퓨터|电脑|máy tính|komputer|คอมพิวเตอร์|dator|কম্পিউটার|tietokone|computer|datamaskin|počítač|υπολογιστής|מחשב|calculator|számítógép
+name|name|nombre|nome|nom|name|nome|naam|imię|ad|имя|ім'я|اسم|नाम|名前|이름|名字|tên|nama|ชื่อ|namn|নাম|nimi|navn|navn|jméno|όνομα|שם|nume|név
+people|people|gente|pessoas|gens|leute|gente|mensen|ludzie|insanlar|люди|люди|ناس|लोग|人々|사람들|人们|mọi người|orang-orang|ผู้คน|folk|মানুষ|ihmiset|mennesker|mennesker|lidé|άνθρωποι|אנשים|oameni|emberek
+man|man|hombre|homem|homme|mann|uomo|man|mężczyzna|adam|мужчина|чоловік|رجل|आदमी|男|남자|男人|đàn ông|pria|ผู้ชาย|man|পুরুষ|mies|mand|mann|muž|άντρας|גבר|bărbat|férfi
+woman|woman|mujer|mulher|femme|frau|donna|vrouw|kobieta|kadın|женщина|жінка|امرأة|औरत|女|여자|女人|phụ nữ|wanita|ผู้หญิง|kvinna|নারী|nainen|kvinde|kvinne|žena|γυναίκα|אישה|femeie|nő
+big|big|grande|grande|grand|groß|grande|groot|duży|büyük|большой|великий|كبير|बड़ा|大きい|큰|大|lớn|besar|ใหญ่|stor|বড়|iso|stor|stor|velký|μεγάλος|גדול|mare|nagy
+small|small|pequeño|pequeno|petit|klein|piccolo|klein|mały|küçük|маленький|малий|صغير|छोटा|小さい|작은|小|nhỏ|kecil|เล็ก|liten|ছোট|pieni|lille|liten|malý|μικρός|קטן|mic|kicsi
+new|new|nuevo|novo|nouveau|neu|nuovo|nieuw|nowy|yeni|новый|новий|جديد|नया|新しい|새로운|新|mới|baru|ใหม่|ny|নতুন|uusi|ny|ny|nový|νέος|חדש|nou|új
+old|old|viejo|velho|vieux|alt|vecchio|oud|stary|eski|старый|старий|قديم|पुराना|古い|오래된|旧|cũ|lama|เก่า|gammal|পুরনো|vanha|gammel|gammel|starý|παλιός|ישן|vechi|régi
+fast|fast|rápido|rápido|rapide|schnell|veloce|snel|szybki|hızlı|быстро|швидко|سريع|तेज़|速い|빠른|快|nhanh|cepat|เร็ว|snabb|দ্রুত|nopea|hurtig|rask|rychlý|γρήγορος|מהיר|rapid|gyors
+slow|slow|lento|lento|lent|langsam|lento|langzaam|wolny|yavaş|медленно|повільно|بطيء|धीमा|遅い|느린|慢|chậm|lambat|ช้า|långsam|ধীর|hidas|langsom|langsom|pomalý|αργός|איטי|lent|lassú
+easy|easy|fácil|fácil|facile|einfach|facile|makkelijk|łatwy|kolay|легко|легко|سهل|आसान|簡単|쉬운|容易|dễ|mudah|ง่าย|lätt|সহজ|helppo|nem|lett|snadný|εύκολος|קל|ușor|könnyű
+hard|hard|difícil|difícil|difficile|schwer|difficile|moeilijk|trudny|zor|трудно|важко|صعب|मुश्किल|難しい|어려운|难|khó|sulit|ยาก|svår|কঠিন|vaikea|svær|vanskelig|těžký|δύσκολος|קשה|greu|nehéz
+hot|hot|caliente|quente|chaud|heiß|caldo|heet|gorący|sıcak|горячий|гарячий|حار|गर्म|暑い|더운|热|nóng|panas|ร้อน|varm|গরম|kuuma|varm|varm|horký|ζεστός|חם|fierbinte|forró
+cold|cold|frío|frio|froid|kalt|freddo|koud|zimny|soğuk|холодно|холодно|بارد|ठंडा|寒い|추운|冷|lạnh|dingin|หนาว|kall|ঠান্ডা|kylmä|kold|kald|studený|κρύος|קר|rece|hideg
+one|one|uno|um|un|eins|uno|een|jeden|bir|один|один|واحد|एक|一|하나|一|một|satu|หนึ่ง|en|এক|yksi|en|en|jedna|ένα|אחת|unu|egy
+two|two|dos|dois|deux|zwei|due|twee|dwa|iki|два|два|اثنان|दो|二|둘|二|hai|dua|สอง|två|দুই|kaksi|to|to|dva|δύο|שתיים|doi|kettő
+three|three|tres|três|trois|drei|tre|drie|trzy|üç|три|три|ثلاثة|तीन|三|셋|三|ba|tiga|สาม|tre|তিন|kolme|tre|tre|tři|τρία|שלוש|trei|három
+is|is|es|é|est|ist|è|is|jest|-|-|-|-|है|です|이에요|是|là|adalah|คือ|är|হয়|on|er|er|je|είναι|הוא|este|van
+are|are|son|são|sont|sind|sono|zijn|są|-|-|-|-|हैं|です|이에요|是|là|adalah|คือ|är|হয়|ovat|er|er|jsou|είναι|הם|sunt|vannak
+not|not|no|não|pas|nicht|non|niet|nie|değil|не|не|لا|नहीं|ない|안|不|không|tidak|ไม่|inte|না|ei|ikke|ikke|ne|δεν|לא|nu|nem
+my|my|mi|meu|mon|mein|mio|mijn|mój|benim|мой|мій|لي|मेरा|私の|내|我的|của tôi|saya|ของฉัน|min|আমার|minun|min|min|můj|μου|שלי|al meu|-m
+your|your|tu|seu|ton|dein|tuo|jouw|twój|senin|твой|твій|لك|तुम्हारा|あなたの|너의|你的|của bạn|kamu|ของคุณ|din|তোমার|sinun|din|din|tvůj|σου|שלך|al tău|-d
+the|the|el|o|le|der|il|de|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
+a|a|un|um|un|ein|un|een|-|bir|-|-|-|एक|-|-|一个|một|sebuah|-|en|একটি|-|en|en|-|ένας|-|un|egy
+to|to|a|para|à|zu|a|naar|do|-e|в|до|إلى|को|に|에|到|đến|ke|ไป|till|কে|-lle|til|til|do|σε|ל|la|-hoz
+in|in|en|em|dans|in|in|in|w|-de|в|в|في|में|で|에서|在|trong|di|ใน|i|মধ্যে|-ssa|i|i|v|σε|ב|în|-ban
+of|of|de|de|de|von|di|van|-|-|-|-|من|का|の|의|的|của|dari|ของ|av|এর|-n|af|av|-|του|של|al|-nak
+for|for|para|para|pour|für|per|voor|dla|için|для|для|لـ|के लिए|のために|위해|为了|cho|untuk|สำหรับ|för|জন্য|varten|for|for|pro|για|בשביל|pentru|számára
+lol|lol|jaja|kkkk|mdr|haha|ahah|haha|haha|ahaha|ахах|ахах|ههههه|हाहा|笑|ㅋㅋㅋ|哈哈|haha|wkwk|555|haha|হাহা|haha|haha|hehe|haha|χαχα|חחח|haha|haha
+idiot|idiot|idiota|idiota|idiot|idiot|idiota|idioot|idiota|aptal|идиот|ідіот|أحمق|बेवकूफ|バカ|바보|白痴|đồ ngốc|idiot|คนโง่|idiot|বোকা|idiootti|idiot|idiot|idiot|ηλίθιος|אידיוט|idiot|idióta
+asshole|asshole|gilipollas|babaca|connard|arschloch|stronzo|klootzak|dupek|göt|мудак|мудак|أحمق|गधा|クソ|개새끼|混蛋|đồ khốn|bajingan|ไอ้เวร|arsle|গাণ্ডু|kusipää|røvhul|rævhål|debil|μαλάκας|מטומטם|prost|faszfej
+bitch|bitch|puta|vadia|salope|schlampe|troia|bitch|suka|orospu|сука|сука|عاهرة|कुतिया|ビッチ|년|婊子|đĩ|pelacur|อี|hora|খানকি|huora|luder|hore|kurva|πουτάνα|זונה|curvă|kurva
+son of a bitch|son of a bitch|hijo de puta|filho da puta|fils de pute|sohn einer hure|figlio di puttana|klootzak|skurwysyn|orospu çocuğu|сукин сын|сучий син|ابن العاهرة|कुत्ते की औलाद|くそ野郎|개새끼|狗娘养的|đồ chó đẻ|anak haram|ไอ้ลูกหมา|jävel|কুত্তার বাচ্চা|paskiainen|skiderik|drittsekk|zmrd|μαλάκας|בן זונה|pizdeț|szemétláda
+fuck|fuck|joder|foder|foutre|ficken|fottere|neuken|pierdolić|siktir|ебать|їбати|نيك|चोद|ファック|씨발|操|đụ|ngentot|เย็ด|knulla|চুতিয়া|vittu|lort|faen|píča|μαλάκας|כוס|pula|fasz
+fuck you|fuck you|jódete|vai se foder|va te faire foutre|fick dich|vaffanculo|neuk je|pierdol się|siktir git|пошёл нахуй|йди на хуй| tailلك|चोद|くそ|씨발|去你的|đụ má|ngentot kau|ควย|knulla dig|ফাক ইউ|haista vittu|fuck dig|fuck deg|jdi do prdele|άντε γαμήσου|לך תזדיין|du-te-n pizda|menj a picsába
+fuck off|fuck off|vete a la mierda|vai embora|casse-toi|verpiss dich|vai a fanculo|rot op|spierdalaj|siktir ol|отвали|відвали|انقلع|चले जा|くたばれ|꺼져|滚开|biến đi|pergilah|ไสหัวไป|dra åt helvete|ফাক অফ|painu vittuun|fuck af|fuck av|jdi do prdele|άντε στο διάολο|לך לעזאזל|du-te dracu|menj a francba
+cunt|cunt|coño|buceta|chatte|fotze|figa|kut|cipa|am|пизда|пизда|كس|चूत|まんこ|보지|屄|lồn|memek|หี|fitta|কান্ট|vittu|kusse|fitte|píča|μουνί|כוס|pizda|piná
+faggot|faggot|marica|viado|pédé|schwuchtel|frocio|nicht|pedał|ibne|пидор|підар|شاذ|गेंडा|ホモ|호모|基佬|bê đê|homo|กะเทย|bög|ফ্যাগট|hintti|bøsse|homo|buzerant|πούστης|הומו|poponar|buzi
+nigger|nigger|negro|negro|nègre|neger|negro|neger|czarnuch|zenci|ниггер|нігер|زنجي|नीग्रो|ニガー|니거|黑鬼|da đen|negro|นิโกร|neger|নিগার|neekeri|neger|neger|negr|νέγρος|ניגר|negru|néger
+nigga|nigga|negro|negro|nègre|neger|negro|neger|czarnuch|zenci|нигга|ніга|زنجي|नीगा|ニガ|니가|黑鬼|da đen|negro|นิกา|neger|নিগা|neekeri|nigger|nigger|negr|νίγκα|ניגה|nigga|nigga
+retard|retard|retrasado|retardado|attardé|behindert|ritardato|mongool|debil|geri zekalı|дебил|дебіл|متخلف|मूर्ख|馬鹿|바보|弱智|đồ ngu|idiot|คนปัญญาอ่อน|efterbliven|রিটার্ড|vajakki|retarderet|retard|debil|καθυστερημένος|מפגר|retardat|hülye
+motherfucker|motherfucker|hijo de puta|filho da puta|fils de pute|hurensohn|figlio di puttana|moederneuker|skurwysyn|orospu çocuğu|сукин сын|сучий син|ابن العاهرة|मादरचोद|くそ野郎|개새끼|妈的|đồ chó đẻ|anak haram|ไอ้ลูกหมา|jävel|মাদারফাকার|äidin nussija|motherfucker|motherfucker|kurva syn|μαλακισμένος|בן זונה|pula mea|anyád fasz
+pussy|pussy|coño|buceta|chatte|fotze|figa|kut|cipa|am|пизда|пизда|كس|चूत|まんこ|보지|屄|lồn|memek|หี|fitta|পাসি|vittu|fisse|fitte|píča|μουνί|כוס|pizda|piná
+dick|dick|polla|pau|bite|schwanz|cazzo|lul|kutas|sik|хуй|хуй|زب|लंड|ちんこ|자지|鸡巴|cặc|kontol|ควย|kuk|ডিক|kyrpä|pik|pikk|čůrák|πουλί|זין|pula|fasz
+slut|slut|puta|vadia|salope|schlampe|troia|slet|dziwka|orospu|шлюха|шлюха|عاهرة|रंडी|ビッチ|창녀|婊子|đĩ|pelacur|อี|hora|স্লাট|lutka|luder|hore|kurva|πουτάνα|זונה|curvă|kurva
